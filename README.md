@@ -1,2 +1,6 @@
 # Faculty-presentation
-One of the company presentations that I held at my previous job.  Describe Clean code principles and things that are connected to a clean code way of development.  Uploaded to give insight into my organization and presentation skills.
+One of the faculty presentations that I held at my previous job.  
+The subject of the presentation is mobile data and protecting mobile data.
+Describe potential security problems and everything about them. 
+Uploaded to give insight into my organization and presentation skills.
+Wrote in natural language because of faculty proposes.
